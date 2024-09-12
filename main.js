@@ -21,3 +21,5 @@ ulBenefitsList.querySelectorAll("li").forEach((li, i) => {
   img.alt = "Checkmark";
   li.appendChild(img);
 });
+
+
